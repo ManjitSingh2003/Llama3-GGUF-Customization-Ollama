@@ -1,0 +1,1 @@
+FROM .\Indic-gemma-2b-finetuned-sft-Navarasa-2.0.gguf

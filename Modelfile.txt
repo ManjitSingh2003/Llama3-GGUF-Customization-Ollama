@@ -1,0 +1,7 @@
+FROM llama3
+
+PARAMETER temperature 0.7
+
+SYSTEM """
+Your expert guide to insightful responses and innovative solutions.
+"""
